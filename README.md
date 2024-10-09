@@ -9,6 +9,7 @@ Usage
 Screenshots
 
 #Features
+
 Responsive design that works on desktop and mobile devices
 Navigation bar with links to different sections
 Movie and TV show cards displayed in a grid layout
@@ -16,12 +17,10 @@ Simple hover effects and animations
 Dynamic content loading using JavaScript
 
 #Technologies Used
+
 HTML5: Structure of the web pages
-
 CSS3: Styling and layout
-
 Flexbox and Grid for responsive design
-
 JavaScript: Interactivity and dynamic content
 
 Local Storage (optional): For storing user preferences
@@ -29,11 +28,8 @@ Local Storage (optional): For storing user preferences
 
 #Installation
 Clone the repository: git clone https://github.com/yourusername/netflix-clone.git
-
 Navigate to the project directory: cd netflix-clone
-
 Open index.html in your web browser.
-
 
 #Usage
 Navigate through the site using the links in the navigation bar.
