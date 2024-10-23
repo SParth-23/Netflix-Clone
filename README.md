@@ -4,8 +4,6 @@ This project is a simple NETFLIX Website clone built with HTML and CSS. It aims 
 Table of Contents
 Features
 Technologies Used
-Installation
-Usage
 Screenshots
 
 #Features
@@ -22,19 +20,6 @@ HTML5: Structure of the web pages
 CSS3: Styling and layout
 Flexbox and Grid for responsive design
 JavaScript: Interactivity and dynamic content
-
-Local Storage (optional): For storing user preferences
-
-
-#Installation
-Clone the repository: git clone https://github.com/yourusername/netflix-clone.git
-Navigate to the project directory: cd netflix-clone
-Open index.html in your web browser.
-
-#Usage
-Navigate through the site using the links in the navigation bar.
-
-Explore the movie and TV show cards. Click on them for more information.
 
 
 #Screenshots
