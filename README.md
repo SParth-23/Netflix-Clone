@@ -1,5 +1,5 @@
 ## Netflix Clone
-This project is a simple NETFLIX Website clone built with HTML and CSS. It aims to replicate the user interface and experience of Netflix, showcasing the use of modern web technologies.
+This project is a NETFLIX Website clone built with HTML and CSS. It aims to replicate the user interface and experience of Netflix, showcasing the use of modern web technologies.
 
 Table of Contents
 Features
@@ -7,20 +7,15 @@ Technologies Used
 Screenshots
 
 #Features
-
 Responsive design that works on desktop and mobile devices
 Navigation bar with links to different sections
 Movie and TV show cards displayed in a grid layout
 Simple hover effects and animations
-Dynamic content loading using JavaScript
 
 #Technologies Used
-
 HTML5: Structure of the web pages
 CSS3: Styling and layout
 Flexbox and Grid for responsive design
-JavaScript: Interactivity and dynamic content
-
 
 #Screenshots
 ![Screenshot 2024-09-10 153454](https://github.com/user-attachments/assets/5cf02a2d-663d-4482-920b-a0aceba2068a)
