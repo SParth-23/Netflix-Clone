@@ -13,6 +13,11 @@ Movie and TV show cards displayed in a grid layout
 Simple hover effects and animations
 
 #Technologies Used
+<p align="center">
+    <img alt="Language" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black"/>
+    <img alt="Language" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black"/>
+    <img alt="Language" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 HTML5: Structure of the web pages
 CSS3: Styling and layout
 Flexbox and Grid for responsive design
